@@ -2,9 +2,9 @@
   "main": {
     "name": "Sriram V P",
     "occupation": "Django-ReactJS Full Stack Web Developer && Tutor.",
-    "description": "Full Stack Web Developer by Day, Founder && Freelancer by Night.",
+    "description": "Passionate Full Stack Web Developer",
     "image": "75603951_1399158433581717_1407027321914785792_o.jpg",
-    "bio": "My name is Sriram, I'm a Django-ReactJS Full Stack Web Developer. I love coding and I am fascinated by how the front-end interacts with the back-end and how to make them work together in a powerful way.",
+    "bio": "My name is Sriram, I love coding and I am fascinated by how the front-end interacts with the back-end and how to make them work together in a powerful way.",
     "contactmessage": "Contact me to receive further details, get coached or anything else.",
     "email": "www.sriram2012@gmail.com",
     "address": {
@@ -56,6 +56,12 @@
         "title": "Django Web Developer",
         "years": "July 2018 - July 2020",
         "description": "Built 3 Web Apps. Blog App, Movie App, To-do List App."
+      },
+      {
+        "company": "PopLink",
+        "title": "Django Web Developer",
+        "years": "August 2020 - Present",
+        "description": "Built an MVP version for the required software."
       }
     ],
     "skills": [
@@ -64,7 +70,7 @@
         "level": "98%"
       },
       {
-        "name": "CSS",
+        "name": "HTML5/CSS",
         "level": "90%"
       },
       {
@@ -74,10 +80,6 @@
       {
         "name": "ReactJS",
         "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
       },
       {
         "name": "Anvil Works",
@@ -110,6 +112,36 @@
         "category": "Amazon Clone built using ReactJS",
         "image": "amazon.png",
         "url": "https://clone-56cbb.firebaseapp.com/"
+      },
+      {
+        "title": "Netflix Clone with React",
+        "category": "Netflix Clone built using ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-clone-ab9a9.firebaseapp.com/"
+      },
+      {
+        "title": "Slack Clone with React",
+        "category": "Slack Clone built using ReactJS",
+        "image": "slack-clone.png",
+        "url": "https://slack-clone-4134d.firebaseapp.com/"
+      },
+      {
+        "title": "Airbnb Clone with React",
+        "category": "Airbnb Clone built using ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://airbnb-clone-c7edc.firebaseapp.com/"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built using ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-clone-d9b6d.firebaseapp.com/"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Covid-19 Tracker built using ReactJS",
+        "image": "covid-19.jpg",
+        "url": "https://covid-19-tracker-b3b6d.firebaseapp.com/"
       }
     ]
   },
