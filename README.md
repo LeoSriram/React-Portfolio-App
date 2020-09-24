@@ -1,4 +1,4 @@
-Deployed at:[https://elastic-goldstine-7b21f5.netlify.app/]
+Deployed at:[https://frosty-bassi-88ebc8.netlify.app/]
 
 ## Description
 This is a ReactJS based personal resume.
